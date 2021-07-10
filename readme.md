@@ -1,0 +1,3 @@
+# mime
+
+mime types json
