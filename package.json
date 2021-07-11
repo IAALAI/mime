@@ -1,0 +1,21 @@
+{
+  "name": "i-mime",
+  "version": "1.0.0",
+  "description": "mime types json",
+  "main": "mime.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAALAI/mime.git"
+  },
+  "keywords": [
+    "mime",
+    "json",
+    "types"
+  ],
+  "author": "IAALAI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IAALAI/mime/issues"
+  },
+  "homepage": "https://github.com/IAALAI/mime#readme"
+}
